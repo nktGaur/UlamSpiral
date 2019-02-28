@@ -9,5 +9,5 @@ javac ClassFile.java
 To run:
 java ClassFile.java
 
-$javac UlamSpiralScaled.java
-$java UlamSpiralScaled
+$javac UlamSpiralScale.java
+$java UlamSpiralScale
